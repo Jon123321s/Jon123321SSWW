@@ -1,0 +1,4 @@
+Day 0
+sql
+SELECT * FROM PERSON WHERE address = 'Kazan'
+``` 
